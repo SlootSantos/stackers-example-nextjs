@@ -1,0 +1,6 @@
+{
+  "output_dir": "out/",
+  "post_install": "ls",
+  "build": "npm run build && npm run export"
+}
+
