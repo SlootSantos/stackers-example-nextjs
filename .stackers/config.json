@@ -4,7 +4,7 @@
   "build": "npm run build && npm run export",
   "branches": {
     "prod_env": "master:tag",
-    "stage_env": "master"
+    "stage_env": "master",
     "dev_env": "develop"
   }
 
